@@ -1,0 +1,17 @@
+{
+    "Heart Rate": 69.95791475117503,
+    "PR Interval": 0.17153169934640522,
+    "QT Interval": 0.34306339869281044,
+    "QRS Duration": 0.1,
+    "HRV": 0.17790480226693042,
+    "R Peak Amplitude": 3.34,
+    "P Duration": 0.1,
+    "Q Duration": 0.1,
+    "R Duration": 0.12,
+    "T Duration": 0.2,
+    "ST Interval": 0.25729754901960783,
+    "QT/RR Ratio": 0.4,
+    "Noise Peaks Detected": 29196,
+    "Signal Entropy": 5.062103350443515,
+    "Fractal Dimension": 0.0309461351354955
+}
